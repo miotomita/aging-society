@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "marker-color": null, "marker-size": null, "marker-symbol": null }, "geometry": { "type": "Point", "coordinates": [ 139.774478226900101, 35.684046479089865 ] } },
+{ "type": "Feature", "properties": { "marker-color": null, "marker-size": null, "marker-symbol": null }, "geometry": { "type": "Point", "coordinates": [ 136.881623268127441, 35.170694965248266 ] } },
+{ "type": "Feature", "properties": { "marker-color": "#7e7e7e", "marker-size": "medium", "marker-symbol": "" }, "geometry": { "type": "Point", "coordinates": [ 135.495897531509399, 34.702300485807832 ] } },
+{ "type": "Feature", "properties": { "marker-color": null, "marker-size": null, "marker-symbol": null }, "geometry": { "type": "Point", "coordinates": [ 141.350784301757812, 43.068652640592397 ] } },
+{ "type": "Feature", "properties": { "marker-color": null, "marker-size": null, "marker-symbol": null }, "geometry": { "type": "Point", "coordinates": [ 140.882105827331543, 38.260356355110247 ] } },
+{ "type": "Feature", "properties": { "marker-color": null, "marker-size": null, "marker-symbol": null }, "geometry": { "type": "Point", "coordinates": [ 130.420653820037842, 33.590045199857123 ] } }
+]
+}
